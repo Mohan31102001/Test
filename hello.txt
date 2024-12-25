@@ -1,6 +1,6 @@
 hello
 Hi
-oooo
-abc
-def
+welcom
+hello
+bye
 

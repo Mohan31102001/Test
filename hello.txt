@@ -1,4 +1,5 @@
 hello
 Hi
-welcome
-hey
+welcom
+hello
+bye
